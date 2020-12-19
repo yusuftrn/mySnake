@@ -11,14 +11,14 @@ C++14 and SFML Libray.
 Just want to explore SFML. Actually liked it. I think someone (or me) can use it for weekend projects. 
 
 ## How to code check?
-Download and setup SFML.
+Download and setup SFML.\
 Download or Clone the project. After this build your execution.
 
 ## just Play
-[Download Debug from Here](https://github.com/yusuftrn/mySnake/raw/master/mySnake_debug.rar)
-Arrow Keys: snake rotation.
-Enter: play Again.
-a little harder than the original game. 🥶
+[Download Debug from Here](https://github.com/yusuftrn/mySnake/raw/master/mySnake_debug.rar)\
+Arrow Keys: snake rotation.\
+Enter: play Again.\
+a little harder than the original game. 🥶\
 
 ## Credits
 The source and design patterns from CaffeinatedTech.  Thanks 👌
