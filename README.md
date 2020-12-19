@@ -18,7 +18,7 @@ Download or Clone the project. After this build your execution.
 [Download Debug from Here](https://github.com/yusuftrn/mySnake/raw/master/mySnake_debug.rar)\
 Arrow Keys: snake rotation.\
 Enter: play Again.\
-a little harder than the original game. 🥶\
+a little harder than the original game. 🥶
 
 ## Credits
 The source and design patterns from CaffeinatedTech.  Thanks 👌
